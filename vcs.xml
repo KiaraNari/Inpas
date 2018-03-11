@@ -50,8 +50,12 @@
           <option name="url" value="https://github.com/KiaraNari/Shop_on_Django.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/KiaraNari/Inpas.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Documents\Programming_Academy\Programming\Python" />
+    <option name="cloneParentDir" value="D:\Documents\Programming_Academy\Programming\Python\Projects\inpas_app" />
   </component>
 </application>
